@@ -19,7 +19,7 @@ const profile = {
   name: "Shubham Kumar",
   github: "https://github.com/Shubham-4427",
   linkedin: "https://www.linkedin.com/in/shubham-kumar-207458327/",
-  email: "YOUR_EMAIL@example.com", // Replace with your professional email.
+  email: "shubham.singhh30@gmail.com", // Replace with your professional email.
 };
 
 const projects = [
